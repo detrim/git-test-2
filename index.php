@@ -10,6 +10,9 @@
 
 <body>
     <h1>hello word</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, similique! Dolorem recusandae dignissimos
+        quibusdam consectetur ex? Est nemo cumque temporibus, iusto, ipsam, incidunt sed omnis beatae ratione blanditiis
+        dolore minima?</p>
 </body>
 
 </html>
